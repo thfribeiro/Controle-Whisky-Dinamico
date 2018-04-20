@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524247339 source:c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\controlewhiskydinamico\estoquewhisky.c
+	"estoqueWhisky.h"
+
+1524247290 c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\controlewhiskydinamico\estoquewhisky.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524247375 source:c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\controlewhiskydinamico\main.c
+	"estoqueWhisky.h"
+
